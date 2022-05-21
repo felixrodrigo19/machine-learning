@@ -1,3 +1,6 @@
 [submodule "Comic-Books"]
 	path = Comic-Books
 	url = https://github.com/felixrodrigo19/Comic-Books.git
+[submodule "feelings-analyzer"]
+	path = feelings-analyzer
+	url = https://github.com/felixrodrigo19/feelings-analyzer.git
