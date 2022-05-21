@@ -4,3 +4,6 @@
 [submodule "feelings-analyzer"]
 	path = feelings-analyzer
 	url = https://github.com/felixrodrigo19/feelings-analyzer.git
+[submodule "Cogumelos"]
+	path = Cogumelos
+	url = https://github.com/felixrodrigo19/Cogumelos.git
