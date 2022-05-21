@@ -7,3 +7,6 @@
 [submodule "Cogumelos"]
 	path = Cogumelos
 	url = https://github.com/felixrodrigo19/Cogumelos.git
+[submodule "BOW"]
+	path = BOW
+	url = https://github.com/felixrodrigo19/BOW.git
