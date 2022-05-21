@@ -10,3 +10,6 @@
 [submodule "BOW"]
 	path = BOW
 	url = https://github.com/felixrodrigo19/BOW.git
+[submodule "credit"]
+	path = credit
+	url = https://github.com/felixrodrigo19/credit.git
