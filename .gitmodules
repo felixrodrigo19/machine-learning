@@ -13,3 +13,6 @@
 [submodule "credit"]
 	path = credit
 	url = https://github.com/felixrodrigo19/credit.git
+[submodule "Stellar-Classification"]
+	path = Stellar-Classification
+	url = https://github.com/felixrodrigo19/Stellar-Classification.git
